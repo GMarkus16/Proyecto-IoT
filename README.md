@@ -1,9 +1,9 @@
-# Proyecto-IoT
+# Variables Ambientales
 Este Proyecto fue diseñado como proyecto final de curso aplicando IoT (Internet de las Cosas), donde podremos obtener variables
 ambientales como: Temeperatura ambiental, humedad ambiental, presion y una aproximacion de Altitud monitoriando todos estos valores 
 en tiempo real por medio de Node-RED. 
 El dispositivo contiene:
-- ESP32
+- Dev Kit ESP32
 - NeoPixeles
 - Sensor SHT30
 - Sensor BME280
